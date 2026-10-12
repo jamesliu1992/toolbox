@@ -34,5 +34,14 @@
 | [n8n](https://github.com/n8n-io/n8n) | 可视化工作流自动化，不写代码连通各种应用 |
 | [Dify](https://github.com/langgenius/dify) | 可视化搭建 AI 应用和智能体，不用写代码 |
 
+
+## 🎙️ 播客与灵感
+
+| 内容 | 一句话 |
+|------|--------|
+| [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) | 精选播客清单，按主题分类，通勤充电用 |
+| [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 中文提示词合集，学怎么让 AI 听你的话 |
+
+---
 ---
 *每周自动更新。只收精品，不堆数量。*
