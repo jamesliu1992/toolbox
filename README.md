@@ -2,9 +2,9 @@
 
 > 从 GitHub 精选：真正能提升工作效率的开源好物。言简意赅，只收最好用的。
 
-## 📌 今日深度推荐（2026-10-20）：Excalidraw
+## 📌 今日深度推荐（2026-10-21）：ONLYOFFICE
 
-Excalidraw 是一款开源的手绘风在线白板，浏览器打开即用，不用下载、不用注册。最实用的三点：**手绘感自带"草稿"气质**（咨询顾问给客户看思路框架时，草图比精修图更容易拿到修改意见）、**实时协作**（发个链接就能多人同屏画流程图，开会讨论不用传文件）、**素材库拖拽即用**（架构图、流程图图标直接拖进来，还能导出 PNG/SVG 插进文档和 PPT）。一个具体技巧：画备考逻辑框架或咨询案例的 MECE 结构图时，记住三个快捷键就够——R 画矩形、L 画箭头、T 写字，画完导出 PNG 直接贴进文档，比在 Word 里拖形状快十倍。
+ONLYOFFICE 是开源的 Office 三件套（文档、表格、演示），桌面版完全免费，无广告无捆绑。对文科生和咨询顾问来说，最实用的三点：**格式兼容性最强**（开源 Office 里对 .docx/.xlsx/.pptx 还原度最高的，客户发来的复杂排版、目录和公式打开基本不乱，比其他免费套件省心）；**界面和微软 Office 几乎一模一样**（菜单位置都熟，零学习成本，换电脑应急不用重新学）；**纯本地离线可用**（文档不经过任何云端，涉密的项目材料和投标文件可以放心写）。一个具体技巧：改合同或咨询报告、多版本对稿时，用「协作」标签页里的「比较文档」，两版差异逐行标出来，比肉眼逐段找改动快得多，也不会漏掉对方偷偷改的条款。
 
 ---
 ## 🖥️ 桌面效率
@@ -22,6 +22,7 @@ Excalidraw 是一款开源的手绘风在线白板，浏览器打开即用，不
 | 工具 | 一句话 |
 |------|--------|
 | [Excalidraw](https://github.com/excalidraw/excalidraw) | 手绘风白板，画流程图架构图，演示神器 |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut) | 🆕 开源版"剪映"：免费视频剪辑工具，剪短视频、课程片段、会议记录都够用 |
 
 ## 📝 笔记办公
 
@@ -44,13 +45,13 @@ Excalidraw 是一款开源的手绘风在线白板，浏览器打开即用，不
 |------|--------|
 | [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) | 精选播客清单，按主题分类，通勤充电用 |
 | [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 中文提示词合集，学怎么让 AI 听你的话 |
-| [prompts.chat](https://github.com/fiaxhsyk/awesome-chatgpt-prompts) | 🆕 全球最大开源提示词库（16.7 万 star）：上千条按场景分类的提示词，配网站可搜索收藏 |
+| [prompts.chat](https://github.com/fiaxhsyk/awesome-chatgpt-prompts) | 🆕 全球最大开源提示词库（16.7 万 star 开源提示词库）：上千条按场景分类的提示词，配网站可搜索收藏 |
 
 ## 🌟 热门人物
 
 | 人物 | 一句话 |
 |------|--------|
-| [Sindre Sorhus](https://github.com/sindresorhus)（7.8 万粉） | "awesome"清单生态开创者、全职开源人：上千个小而美的 CLI 与 npm 工具作者，找趁手工具先翻他的仓库 |
+| [François Chollet](https://github.com/fchollet)（1.9 万粉） | Keras 之父、《Deep Learning with Python》作者：让神经网络像搭积木一样好上手的一代人入门导师，如今专注研究"智能的度量"与 ARC 推理基准 |
 
 ---
 *每天自动更新。只收精品，不堆数量。*
